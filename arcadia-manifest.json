@@ -1,1 +1,1 @@
-{"version":"1.3","downloadUrl":"https://files.catbox.moe/wmplr4.zip","notes":"New logo, clients page, in-Roblox injected toast, persistent teleport queue, +5 UNC funcs."}
+{"version":"1.5","downloadUrl":"https://files.catbox.moe/d4adeo.zip","notes":"Zen -> Arcadia rebrand, UNC jump to 93%, sandbox globals unlocked for binding, game:HttpGet rewrite for scriptblox loadstrings, extexecute SEH-safe compile."}
